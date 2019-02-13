@@ -8,6 +8,8 @@ main:
     url: /research/
   - title: "Resources"
     url: /resources/
+  - title: "Partners"
+    url: /partners/
   - title: "Find Us"
     url: /findus/
   - title: "Join Us"
