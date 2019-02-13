@@ -99,7 +99,7 @@ visitors:
   - image_path: /assets/images/profile/wenboli.jpg
     alt: "Wenbo Li"
     title: "Wenbo Li"
-    excerpt: "liwenbocqu@foxmail.com"
+    excerpt: "wenbo.li@uwaterloo.ca"
     url: "https://www.linkedin.com/in/wenbo-li-8a765a135/"
   - image_path: /assets/images/profile/binglu.jpg
     alt: "Bin Lu"
