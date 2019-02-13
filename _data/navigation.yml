@@ -2,14 +2,10 @@
 main:
   - title: "About Us"
     url: /aboutus/
-  - title: "Director"
-    url: /director/
   - title: "People"
     url: /people/
-  - title: "Projects"
-    url: /projects/
-  - title: "Papers"
-    url: /papers/
+  - title: "Research"
+    url: /research/
   - title: "Resources"
     url: /resources/
   - title: "Find Us"
