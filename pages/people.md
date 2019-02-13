@@ -37,7 +37,7 @@ postdoc:
     url: "https://www.linkedin.com/in/yang-xing-323998100"
 
 graduate:
-  - image_path: /assets/images/profile/huilongyu.jpg
+  - image_path: /assets/images/profile/zejiandeng.jpg
     alt: "Zejian Deng"
     title: "Zejian Deng"
     excerpt: "z49deng@uwaterloo.ca"
