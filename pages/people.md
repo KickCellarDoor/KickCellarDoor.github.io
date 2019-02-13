@@ -67,6 +67,10 @@ graduate:
     title: "Wen Yang"
     excerpt: "wen.yang@uwaterloo.ca"
     url: "www.linkedin.com/in/uw-wen-yang"
+  - image_path: /assets/images/profile/keqishu.jpg
+    alt: "Keqi Shu"
+    title: "Keqi Shu"
+    excerpt: "k3shu@uwaterloo.ca"
 
 visitors:
   - image_path: /assets/images/profile/lipengzhang.jpg
