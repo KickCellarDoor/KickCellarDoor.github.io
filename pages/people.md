@@ -30,7 +30,7 @@ postdoc:
     title: "Teng Liu"
     excerpt: "tengliu17@gmail.com"
     url: "https://www.linkedin.com/in/teng-liu-655404155/"
-  - image_path: /assets/images/profile/yangxin.jpg
+  - image_path: /assets/images/profile/yangxing.jpg
     alt: "Yang Xing"
     title: "Yang Xing"
     excerpt: "522526363@qq.com"
