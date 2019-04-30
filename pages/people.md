@@ -4,6 +4,7 @@ layout: splash
 toc: true
 toc_label: "People"
 toc_icon: "address-book"
+---
 Director:
   - image_path: /assets/images/profile/DongpuCao.jpg
     alt: "Dongpu Cao"
@@ -114,6 +115,7 @@ Undergraduate Students:
     alt: "Lang Su"
     title: "Lang Su"
     url: https://www.linkedin.com/in/kevinsu628/
+
 ---
 
 # Lab Members
