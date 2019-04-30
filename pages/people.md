@@ -8,8 +8,7 @@ director:
   - image_path: /assets/images/profile/DongpuCao.jpg
     alt: "Dongpu Cao"
     title: "Dongpu Cao"
-    excerpt: "519-888-4567, ext. 32170  
-    dongpu.cao@uwaterloo.ca  
+    excerpt: "519-888-4567, ext. 32170  dongpu.cao@uwaterloo.ca  
     Location: E3 3154"
 
 postdoc:
