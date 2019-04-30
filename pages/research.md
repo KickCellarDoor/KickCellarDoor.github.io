@@ -1,6 +1,10 @@
 ---
 permalink: /research/
 layout: single
+classes: wide
+header:
+  overlay_color: "#5e616c"
+  overlay_image: \assets\images\ben-dutton-1357712-unsplash.jpg
 ---
 
 [1]L. Chen, X. Hu, B. Tang, and D. Cao, “Parallel Motion Planning: Learning a Deep Planning Model against Emergencies,” IEEE Intelligent Transportation Systems Magazine, vol. 11, no. 1, pp. 36–41, 2019.

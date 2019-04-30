@@ -1,6 +1,10 @@
 ---
 permalink: /resources/
 layout: single
+classes: wide
+header:
+  overlay_color: "#5e616c"
+  overlay_image: \assets\images\ben-dutton-1357712-unsplash.jpg
 ---
 
 ## CogData
