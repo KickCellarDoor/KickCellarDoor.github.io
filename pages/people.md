@@ -136,10 +136,9 @@ undergraduate:
 
 ---
 
-# Lab Members
 
-## Menu
-{% include toc %}
+{% include toc icon="address-book" title="Lab Members" %}
+# Lab Members
 
 ## Director 
 {% include feature_row id = "director" %}
