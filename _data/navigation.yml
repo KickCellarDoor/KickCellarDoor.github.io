@@ -8,12 +8,8 @@ main:
     url: /research/
   - title: "Resources"
     url: /resources/
-  - title: "Partners"
-    url: /partners/
   - title: "Find Us"
     url: /findus/
-  - title: "Join Us"
-    url: /joinus/
 
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/

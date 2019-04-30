@@ -4,6 +4,7 @@ layout: splash
 toc: true
 toc_label: "People"
 toc_icon: "address-book"
+
 director:
   - image_path: /assets/images/profile/DongpuCao.jpg
     alt: "Dongpu Cao"
@@ -15,7 +16,7 @@ E3 3154
 
 Prof. Dongpu Cao is the Director of Waterloo Cognitive Autonomous Driving (CogDrive) Lab at the University of Waterloo. He is an Associate Professor in the Department of Mechanical and Mechatronics Engineering. Before joining Waterloo in Jan, 2018, Prof. Cao was a full-time faculty member at the Cranfield University (2014-2017) and the Lancaster University (2011-2014) in the UK. 
 
-Prof. Cao has published over 180 papers and 2 books in the fields of vehicle dynamics/control, driver cognition, driver-automation collaboration, automated driving and cognitive autonomous driving. Please refer to Google Scholar for detailed publications (https://scholar.google.ca/citations?hl=en&user=ss0bqPYAAAAJ&view_op=list...).   
+Prof. Cao has published over 180 papers and 2 books in the fields of vehicle dynamics/control, driver cognition, driver-automation collaboration, automated driving and cognitive autonomous driving.   
 
 Prof. Cao received the SAE Arch T. Colwell Merit Award in 2012, and three Best Paper Awards from the ASME and IEEE conferences. His research has been funded by Canada NSERC, UK EPSRC, EU Horizon 2020, Innovate UK, Ontario Research Fund, Automotive Partnership Canada and various industrial partners.  
 
@@ -23,7 +24,6 @@ As the PI, Prof. Cao led a research consortium (over 15 members) for the level-3
 
 Prof. Cao serves as an Associate Editor for IEEE Transactions on Vehicular Technology, IEEE Transactions on Intelligent Transportation Systems, IEEE/ASME Transactions on Mechatronics, IEEE Transactions on Industrial Electronics, IEEE/CAA Journal of Automatica Sinica, ASME Journal of Dynamic Systems, Measurement and Control, and International Journal of Vehicle Design. Prof. Cao has been a member of SAE Vehicle Dynamics Standards Committee and the Co-Chair of IEEE ITSS Technical Committee on Cooperative Driving. Prof. Cao was a Program Co-Chair for IEEE IV 2018.  
 "
-
 
 Post-doctoral Fellow:
   - image_path: /assets/images/profile/huilongyu.jpg
@@ -50,7 +50,7 @@ PhD students:
     title: "Chen Sun"
     excerpt: "chen.sun@uwaterloo.ca"
     url: "https://www.linkedin.com/in/chensun0/"
-    
+
 Master students：
   - image_path: /assets/images/profile/jean Vianney.jpg
     alt: "Jean Vianney"
@@ -141,18 +141,18 @@ Undergraduate Students：
 ## Postdoctoral Fellows
 {% include feature_row id = "Post-doctoral Fellow" %}
 
-## PhD students
+## PhD Students
 {% include feature_row id = "PhD students" %}
 
-## Master students
+## Master Students
 {% include feature_row id = "Master students" %}
 
-## Visiting professors
+## Visiting Professors
 {% include feature_row id = "Visiting professors" %}
 
-## Visiting students
+## Visiting Students
 {% include feature_row id = "Visiting students" %}
 
-## Undergraduate
+## Undergraduate Students
 {% include feature_row id = "Undergraduate Students" %}
 
