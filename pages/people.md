@@ -1,10 +1,6 @@
 ---
 permalink: /people/
 layout: splash
-toc: true
-toc_label: "People"
-toc_icon: "address-book"
-
 Director:
   - image_path: /assets/images/profile/DongpuCao.jpg
     alt: "Dongpu Cao"
