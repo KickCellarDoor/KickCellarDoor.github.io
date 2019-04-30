@@ -1,9 +1,7 @@
 ---
 permalink: /people/
 layout: splash
-toc: true
-toc_label: "People"
-toc_icon: "address-book"
+
 director:
   - image_path: /assets/images/profile/DongpuCao.jpg
     alt: "Dongpu Cao"
@@ -109,7 +107,7 @@ visitors:
     title: "Wenbo Li"
     excerpt: "wenbo.li@uwaterloo.ca  
     
-    
+
     Driver emotion, Autonomous vehicle HMI (Human machine interaction)"
     url: "https://www.linkedin.com/in/wenbo-li-8a765a135/"
   - image_path: /assets/images/profile/binglu.jpg
@@ -139,6 +137,10 @@ undergraduate:
 ---
 
 # Lab Members
+
+## Menu
+{% include toc %}
+
 ## Director 
 {% include feature_row id = "director" %}
 
