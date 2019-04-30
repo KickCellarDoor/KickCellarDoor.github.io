@@ -58,7 +58,7 @@ master:
     alt: "Xingxin Chen"
     title: "Xingxin Chen"
     excerpt: "xingxin.chen@uwaterloo.ca   
-    
+
     Deep reinforcement learning based decision making, Sim-to-real transfer learning"
     url: "https://www.linkedin.com/in/xingxin-chen-721a21153/"
   - image_path: /assets/images/profile/wenyang.jpg
