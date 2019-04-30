@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: \assets\images\ben-dutton-1357712-unsplash.jpg
 ---
-
+# Publications
 * [1]L. Chen, X. Hu, B. Tang, and D. Cao, “Parallel Motion Planning: Learning a Deep Planning Model against Emergencies,” IEEE Intelligent Transportation Systems Magazine, vol. 11, no. 1, pp. 36–41, 2019.
 * [2]L. Chen, Y. Shan, W. Tian, B. Li, and D. Cao, “A Fast and Efficient Double-Tree RRT $^* $-Like Sampling-Based Planner Applying on Mobile Robotic Systems,” IEEE/ASME Transactions on Mechatronics, vol. 23, no. 6, pp. 2568–2578, 2018.
 * [3]L. Fan, L. Chen, K. Huang, and D. Cao, “Planecell: Representing Structural Space with Plane Elements,” in 2018 IEEE Intelligent Vehicles Symposium (IV), 2018, pp. 978–985.
