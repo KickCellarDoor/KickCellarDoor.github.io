@@ -108,6 +108,25 @@ visitors:
     title: "Bin Lu"
     excerpt: "lubingev@sina.com"
 
+undergraduate:
+  - image_path: /assets/images/profile/jack.jpg
+    alt: "Jack (Jianxiang) Xu "
+    title: "Jack (Jianxiang) Xu "
+    url: https://www.linkedin.com/in/jack-xu-jxinbox/
+  - image_path: /assets/images/profile/MiviaLi.jpg
+    alt: "Mivia Li"
+    title: "Mivia Li"
+    excerpt: "Autonomous Vehicles, Advanced Robotics, Autonomous Navigation, Automotive Design Modeling"
+    url: https://www.linkedin.com/in/linghan-li/
+  - image_path: /assets/images/profile/SunshengGu.jpg
+    alt: "Sunsheng Gu"
+    title: "Sunsheng Gu"
+    url: https://www.linkedin.com/in/sunsheng-gu-31089411b/
+  - image_path: /assets/images/profile/Lang Su.jpg
+    alt: "Lang Su"
+    title: "Lang Su"
+    url: https://www.linkedin.com/in/kevinsu628/
+
 ---
 
 # Lab Members
