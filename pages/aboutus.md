@@ -1,9 +1,11 @@
 ---
 permalink: /aboutus/
 layout: single
+author_profile: false
+excerpt: "Waterloo CogDrive Lab focuses on human-centric AI and engineering research in cognitive autonomous driving."
 header:
-  overlay_color: "#5e616c"
-  overlay_image: \assets\images\ben-dutton-1357712-unsplash.jpg
+    overlay_image:  /assets/images/ben-dutton-1357712-unsplash.jpg
+    overlay_filter: 0.5
 ---
 # About Us
 CogDrive (Waterloo Cognitive Autonomous Driving Lab) focuses on human-centric AI and engineering research in cognitive autonomous driving.
