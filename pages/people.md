@@ -21,7 +21,7 @@ postdoc:
     alt: "Teng Liu"
     title: "Teng Liu"
     excerpt: "tengliu17@gmail.com  
-Deep reinforcement learning (DRL)-based energy management for hybrid electric vehicles, DRL-based decision making for autonomous vehicles, and CPSS-based parallel driving."
+Deep reinforcement learning (DRL)-based energy management for hybrid electric vehicles, DRL-based decision making for autonomous vehicles, and CPSS-based parallel driving.  a"
     url: "https://www.linkedin.com/in/teng-liu-655404155/"
 
 phd:
