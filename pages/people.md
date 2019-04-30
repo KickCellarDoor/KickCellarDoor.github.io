@@ -11,7 +11,7 @@ director:
     excerpt: "519-888-4567, ext. 32170   
 dongpu.cao@uwaterloo.ca"
 
-post-doctoral:
+postdoc:
   - image_path: /assets/images/profile/huilongyu.jpg
     alt: "Huilong Yu"
     title: "Huilong Yu"
@@ -68,14 +68,14 @@ master:
     Visual SLAM"
     url: www.linkedin.com/in/uw-wen-yang
 
-visiting-professors:
+visitingprofessors:
     - image_path: /assets/images/profile/weidawang.jpg
     alt: "Weida Wang"
     title: "Weida Wang"
     excerpt: "wangwd0430@163.com"
     url: www.linkedin.com/in/uw-wen-yang
 
-visiting-students:
+visitingstudents:
   - image_path: /assets/images/profile/yajunzheng.jpg
     alt: "Yajun Zheng"
     title: "Yajun Zheng"
@@ -96,7 +96,7 @@ visiting-students:
     title: "Bin Lu"
     excerpt: "lubingev@sina.com"
 
-undergraduate-students:
+undergraduate:
   - image_path: /assets/images/profile/jack.jpg
     alt: "Jack (Jianxiang) Xu "
     title: "Jack (Jianxiang) Xu "
@@ -114,6 +114,7 @@ undergraduate-students:
     alt: "Lang Su"
     title: "Lang Su"
     url: https://www.linkedin.com/in/kevinsu628/
+
 ---
 
 # Lab Members
@@ -121,7 +122,7 @@ undergraduate-students:
 {% include feature_row id = "director" %}
 
 ## Postdoctoral Fellows
-{% include feature_row id = "post-doctoral" %}
+{% include feature_row id = "postdoc" %}
 
 ## PhD Students
 {% include feature_row id = "phd" %}
@@ -130,11 +131,11 @@ undergraduate-students:
 {% include feature_row id = "master" %}
 
 ## Visiting Professors
-{% include feature_row id = "visiting-professors" %}
+{% include feature_row id = "visitingprofessors" %}
 
 ## Visiting Students
-{% include feature_row id = "visiting-students" %}
+{% include feature_row id = "visitingstudents" %}
 
 ## Undergraduate Students
-{% include feature_row id = "undergraduate-students" %}
+{% include feature_row id = "undergraduate" %}
 
