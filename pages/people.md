@@ -81,20 +81,13 @@ master:
     excerpt: "k3shu@uwaterloo.ca
     Path planning"
 
-visitors:
-  - image_path: /assets/images/profile/lipengzhang.jpg
-    alt: "Lipeng Zhang"
-    title: "Lipeng Zhang"
-    excerpt: "evlp@163.com"
+visitort:
   - image_path: /assets/images/profile/weidawang.jpg
     alt: "Weida Wang"
     title: "Weida Wang"
     excerpt: "wangwd0430@163.com"
-    url: "www.linkedin.com/in/uw-wen-yang"
-  - image_path: /assets/images/profile/guopengli.jpg
-    alt: "Guopeng Li"
-    title: "Guopeng Li"
-    excerpt: "wangqu_li@126.com"
+
+visitors:
   - image_path: /assets/images/profile/yajunzheng.jpg
     alt: "Yajun Zheng"
     title: "Yajun Zheng"
