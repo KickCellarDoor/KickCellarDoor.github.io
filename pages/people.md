@@ -10,6 +10,18 @@ director:
     title: "Dongpu Cao"
     excerpt: "519-888-4567, ext. 32170   
 dongpu.cao@uwaterloo.ca
+Location: 
+E3 3154
+
+Prof. Dongpu Cao is the Director of Waterloo Cognitive Autonomous Driving (CogDrive) Lab at the University of Waterloo. He is an Associate Professor in the Department of Mechanical and Mechatronics Engineering. Before joining Waterloo in Jan, 2018, Prof. Cao was a full-time faculty member at the Cranfield University (2014-2017) and the Lancaster University (2011-2014) in the UK. 
+
+Prof. Cao has published over 180 papers and 2 books in the fields of vehicle dynamics/control, driver cognition, driver-automation collaboration, automated driving and cognitive autonomous driving. 
+
+Prof. Cao received the SAE Arch T. Colwell Merit Award in 2012, and three Best Paper Awards from the ASME and IEEE conferences. His research has been funded by Canada NSERC, UK EPSRC, EU Horizon 2020, Innovate UK, Ontario Research Fund, Automotive Partnership Canada and various industrial partners.  
+
+As the PI, Prof. Cao led a research consortium (over 15 members) for the level-3 automated driving research, CogShift, funded by UK EPSRC and closely collaborated with Jaguar Land Rover and UCL Institute of Cognitive Neuroscience, between 2015 and 2017. 
+
+Prof. Cao serves as an Associate Editor for IEEE Transactions on Vehicular Technology, IEEE Transactions on Intelligent Transportation Systems, IEEE/ASME Transactions on Mechatronics, IEEE Transactions on Industrial Electronics, IEEE/CAA Journal of Automatica Sinica, ASME Journal of Dynamic Systems, Measurement and Control, and International Journal of Vehicle Design. Prof. Cao has been a member of SAE Vehicle Dynamics Standards Committee and the Co-Chair of IEEE ITSS Technical Committee on Cooperative Driving. Prof. Cao was a Program Co-Chair for IEEE IV 2018.
 "
 
 postdoc:
