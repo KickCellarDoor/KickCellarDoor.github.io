@@ -140,7 +140,7 @@ undergraduate:
 # Lab Members
 
 ## Director 
-{% include feature_row id = "director" %}
+{% include feature_row id = "director" type = "left" %}
 
 {% include toc icon="address-book" title="Lab Members" %}
 
