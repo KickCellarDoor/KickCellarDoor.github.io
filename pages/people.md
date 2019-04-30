@@ -22,7 +22,7 @@ postdoc:
   - image_path: /assets/images/profile/tengliu.jpg
     alt: "Teng Liu"
     title: "Teng Liu"
-    excerpt: "tengliu17@gmail.com
+    excerpt: "tengliu17@gmail.com  
     Deep reinforcement learning (DRL)-based energy management for hybrid electric vehicles, DRL-based decision making for autonomous vehicles, and CPSS-based parallel driving."
     url: "https://www.linkedin.com/in/teng-liu-655404155/"
 
@@ -30,7 +30,7 @@ phd:
   - image_path: /assets/images/profile/zejiandeng.jpg
     alt: "Zejian Deng"
     title: "Zejian Deng"
-    excerpt: "z49deng@uwaterloo.ca
+    excerpt: "z49deng@uwaterloo.ca  
     Driver behaviour mechanism modelling, Interaction-aware decision-making of autonomous driving"
     url: "https://www.linkedin.com/in/zejian-deng-025114103/"
   - image_path: /assets/images/profile/chensun.jpg
@@ -43,19 +43,19 @@ master:
   - image_path: /assets/images/profile/jean Vianney.jpg
     alt: "Jean Vianney"
     title: "Jean Vianney"
-    excerpt: "Jmuviann@uwaterloo.ca
+    excerpt: "Jmuviann@uwaterloo.ca  
     End-to-End autonomous driving, vision based autonomous driving, computer vision, perception and prediction, Sensor fusion, Machine Learning and geospatial data engineering"
     url: "http://linkedin.com/in/jean-vianney-05b30731"
   - image_path: /assets/images/profile/jinweizhang.jpg
     alt: "Jinwei Zhang"
     title: "Jinwei Zhang"
-    excerpt: "jinwei.zhang@uwaterloo.ca
+    excerpt: "jinwei.zhang@uwaterloo.ca  
     Autonomous Driving, Motion Prediction, Risk Assessment"
     url: "https://www.linkedin.com/in/zhang-jinwei/"
   - image_path: /assets/images/profile/xingxinchen.jpg
     alt: "Xingxin Chen"
     title: "Xingxin Chen"
-    excerpt: "xingxin.chen@uwaterloo.ca
+    excerpt: "xingxin.chen@uwaterloo.ca  
     Deep reinforcement learning based decision making, Sim-to-real transfer learning"
     url: "https://www.linkedin.com/in/xingxin-chen-721a21153/"
   - image_path: /assets/images/profile/wenyang.jpg
