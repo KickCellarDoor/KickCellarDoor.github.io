@@ -1,14 +1,17 @@
 ---
 permalink: /people/
 layout: splash
-Director:
+toc: true
+toc_label: "People"
+toc_icon: "address-book"
+director:
   - image_path: /assets/images/profile/DongpuCao.jpg
     alt: "Dongpu Cao"
     title: "Dongpu Cao"
     excerpt: "519-888-4567, ext. 32170   
 dongpu.cao@uwaterloo.ca"
 
-Post-doctoral Fellow:
+post-doctoral:
   - image_path: /assets/images/profile/huilongyu.jpg
     alt: "Huilong Yu"
     title: "Huilong Yu"
@@ -21,7 +24,7 @@ Post-doctoral Fellow:
     Deep reinforcement learning (DRL)-based energy management for hybrid electric vehicles, DRL-based decision making for autonomous vehicles, and CPSS-based parallel driving."
     url: https://www.linkedin.com/in/teng-liu-655404155/
 
-PhD Students:
+phd:
   - image_path: /assets/images/profile/zejiandeng.jpg
     alt: "Zejian Deng"
     title: "Zejian Deng"
@@ -34,7 +37,7 @@ PhD Students:
     excerpt: "chen.sun@uwaterloo.ca"
     url: https://www.linkedin.com/in/chensun0/
 
-Master Students:
+master:
   - image_path: /assets/images/profile/jean Vianney.jpg
     alt: "Jean Vianney"
     title: "Jean Vianney"
@@ -65,14 +68,14 @@ Master Students:
     Visual SLAM"
     url: www.linkedin.com/in/uw-wen-yang
 
-Visiting Professors:
+visiting-professors:
     - image_path: /assets/images/profile/weidawang.jpg
     alt: "Weida Wang"
     title: "Weida Wang"
     excerpt: "wangwd0430@163.com"
     url: www.linkedin.com/in/uw-wen-yang
 
-Visiting Students:
+visiting-students:
   - image_path: /assets/images/profile/yajunzheng.jpg
     alt: "Yajun Zheng"
     title: "Yajun Zheng"
@@ -93,7 +96,7 @@ Visiting Students:
     title: "Bin Lu"
     excerpt: "lubingev@sina.com"
 
-Undergraduate Students:
+undergraduate-students:
   - image_path: /assets/images/profile/jack.jpg
     alt: "Jack (Jianxiang) Xu "
     title: "Jack (Jianxiang) Xu "
@@ -115,23 +118,23 @@ Undergraduate Students:
 
 # Lab Members
 ## Director 
-{% include feature_row id = "Director" %}
+{% include feature_row id = "director" %}
 
 ## Postdoctoral Fellows
-{% include feature_row id = "Post-doctoral Fellow" %}
+{% include feature_row id = "post-doctoral" %}
 
 ## PhD Students
-{% include feature_row id = "PhD Students" %}
+{% include feature_row id = "phd" %}
 
 ## Master Students
-{% include feature_row id = "Master Students" %}
+{% include feature_row id = "master" %}
 
 ## Visiting Professors
-{% include feature_row id = "Visiting Professors" %}
+{% include feature_row id = "visiting-professors" %}
 
 ## Visiting Students
-{% include feature_row id = "Visiting Students" %}
+{% include feature_row id = "visiting-students" %}
 
 ## Undergraduate Students
-{% include feature_row id = "Undergraduate Students" %}
+{% include feature_row id = "undergraduate-students" %}
 
