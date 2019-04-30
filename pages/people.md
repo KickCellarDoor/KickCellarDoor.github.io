@@ -145,19 +145,19 @@ undergraduate:
 {% include toc icon="address-book" title="Lab Members" %}
 
 ## Postdoctoral Fellows
-{% include feature_row id = "postdoc" %}
+{% include feature_row id = "postdoc" type = "left" %}
 
 ## PhD Students
-{% include feature_row id = "phd" %}
+{% include feature_row id = "phd" type = "left" %}
 
 ## Master Students
-{% include feature_row id = "master" %}
+{% include feature_row id = "master" type = "left" %}
 
 ## Visiting Professors
-{% include feature_row id = "visitort" %}
+{% include feature_row id = "visitort" type = "left" %}
 
 ## Visiting Students
-{% include feature_row id = "visitors" %}
+{% include feature_row id = "visitors" type = "left" %}
 
 ## Undergraduate Students
-{% include feature_row id = "undergraduate" %}
+{% include feature_row id = "undergraduate" type = "left" %}
