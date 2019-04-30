@@ -136,13 +136,12 @@ undergraduate:
 
 ---
 
+{% include toc icon="address-book" title="Lab Members" %}
 
 # Lab Members
 
 ## Director 
 {% include feature_row id = "director" %}
-
-{% include toc icon="address-book" title="Lab Members" %}
 
 ## Postdoctoral Fellows
 {% include feature_row id = "postdoc" %}
