@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 layout: single
+class: wide
 author_profile: false
 excerpt: "Waterloo CogDrive Lab focuses on human-centric AI and engineering research in cognitive autonomous driving."
 header:
