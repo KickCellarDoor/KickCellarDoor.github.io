@@ -133,14 +133,20 @@ undergraduate:
 ## Director 
 {% include feature_row id = "director" %}
 
-## Staff 
-{% include feature_row id = "staff" %}
-
 ## Postdoctoral Fellows
 {% include feature_row id = "postdoc" %}
 
-## Graduate Students
-{% include feature_row id = "graduate" %}
+## PhD Students
+{% include feature_row id = "phd" %}
 
-## Visitors
+## Master Students
+{% include feature_row id = "master" %}
+
+## Visiting Professors
+{% include feature_row id = "visitort" %}
+
+## Visiting Students
 {% include feature_row id = "visitors" %}
+
+## Undergraduate Students
+{% include feature_row id = "undergraduate" %}
