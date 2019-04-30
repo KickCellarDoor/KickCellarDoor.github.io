@@ -33,7 +33,8 @@ postdoc:
   - image_path: /assets/images/profile/tengliu.jpg
     alt: "Teng Liu"
     title: "Teng Liu"
-    excerpt: "tengliu17@gmail.com"
+    excerpt: "tengliu17@gmail.com
+    Deep reinforcement learning (DRL)-based energy management for hybrid electric vehicles, DRL-based decision making for autonomous vehicles, and CPSS-based parallel driving."
     url: "https://www.linkedin.com/in/teng-liu-655404155/"
 
 graduate:
