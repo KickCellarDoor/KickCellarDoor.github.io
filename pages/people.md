@@ -10,7 +10,7 @@ director:
     title: "Dongpu Cao"
     excerpt: "519-888-4567, ext. 32170   
 dongpu.cao@uwaterloo.ca
-### Location: 
+Location: 
 E3 3154
 
 Prof. Dongpu Cao is the Director of Waterloo Cognitive Autonomous Driving (CogDrive) Lab at the University of Waterloo. He is an Associate Professor in the Department of Mechanical and Mechatronics Engineering. Before joining Waterloo in Jan, 2018, Prof. Cao was a full-time faculty member at the Cranfield University (2014-2017) and the Lancaster University (2011-2014) in the UK. 
